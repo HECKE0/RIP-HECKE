@@ -241,7 +241,7 @@ local script = Instance.new('LocalScript', Frame)
 
 function dragify(Main)
 dragToggle = nil
-dragSpeed = 0.50 -- You can edit this.
+dragSpeed = 0.25 -- You can edit this.
 dragInput = nil
 dragStart = nil
 dragPos = nil
